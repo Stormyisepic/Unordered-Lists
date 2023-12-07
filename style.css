@@ -1,0 +1,40 @@
+body {
+    background-color: #928a96;
+    font-family: Arial, sans-serif;
+    
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #0c283b;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    
+}
+
+#playButton {
+    position: absolute;
+    left: 30%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #playButton:hover {
+    background-color: #2980b9;
+  }
+
+  img {
+    border-radius: 
+    25%;
+    padding: 
+    35px;
+
+  }
